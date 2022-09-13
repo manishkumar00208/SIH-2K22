@@ -1,2 +1,3 @@
 # SIH-2K22
-Database update......
+Offline Portal For Direct Benefit Transfer 
+of Scholarship and other government qualifications.
